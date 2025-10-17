@@ -4,3 +4,60 @@ target/
 *.iml
 .DS_Store
 .m2/
+
+# ====== Extra ignore rules for QA project ======
+# Maven / Allure build outputs
+target/
+allure-results/
+allure-report/
+
+# Logs, media, temp files
+*.log
+*.mp4
+*.png
+*.zip
+
+# Node (если случайно добавился)
+node_modules/
+package-lock.json
+
+# Local config files
+config.local.properties
+
+# ====== Extra ignore rules for QA project ======
+# Maven / Allure build outputs
+target/
+allure-results/
+allure-report/
+
+# Logs, media, temp files
+*.log
+*.mp4
+*.png
+*.zip
+
+# Node (если случайно добавился)
+node_modules/
+package-lock.json
+
+# Local config files
+config.local.properties
+
+# ====== Extra ignore rules for QA project ======
+# Maven / Allure build outputs
+target/
+allure-results/
+allure-report/
+
+# Logs, media, temp files
+*.log
+*.mp4
+*.png
+*.zip
+
+# Node (если случайно добавился)
+node_modules/
+package-lock.json
+
+# Local config files
+config.local.properties
